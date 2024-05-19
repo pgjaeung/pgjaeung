@@ -1,6 +1,5 @@
 <div align="center">
-  ![slice](https://capsule-render.vercel.app/api?type=rounded&color=191970&height=300&section=header&text=Jaeung's%20Code&fontSize=90&animation=blink&fontColor=FFD700)
-</div>
+  ![header](https://capsule-render.vercel.app/api?type=rounded&color=191970&height=300&section=header&text=Jaeung's%20Code&fontSize=90&animation=blink&fontColor=FFD700)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
