@@ -1,6 +1,4 @@
-<div align="center">
-  <img src="https://github.com/oka1313/oka1313/assets/101691440/92118a53-c5b6-40bc-b130-bf8c398d7b51" />
-</div>
+### ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Jaeung%20Code&fontSize=90)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
