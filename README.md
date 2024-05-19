@@ -1,4 +1,4 @@
-[(https://capsule-render.vercel.app/api?type=rounded&height=300&color=191970&text=Jaeung%20Code&textBg=false&animation=fadeIn&fontColor=FFD700)](https://capsule-render.vercel.app/api?type=rounded&height=300&color=191970&text=Jaeung%20Code&textBg=false&animation=fadeIn&fontColor=FFD700)
+[(https://capsule-render.vercel.app/api?type=rounded&height=300&color=191970&text=Jaeung%20Code&textBg=false&animation=fadeIn&fontColor=FFD700)]
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
