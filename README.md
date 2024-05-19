@@ -1,5 +1,4 @@
-
-[[![header](https://capsule-render.vercel.app/api?type=Cylinder&color=gradient&height=250&section=header&text=Jaeung%20Code&fontSize=90&animation=fadeIn)]
+(https://capsule-render.vercel.app/api?type=rounded&height=300&color=191970&text=Jaeung%20Code&textBg=false&animation=fadeIn&fontColor=FFD700)
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
