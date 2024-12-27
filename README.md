@@ -7,12 +7,11 @@
 <div align="center">
   <h3>✨ Tech Stack ✨</h3>
   <p>Technologies I work with</p>
-  <img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />&nbsp
-  <img src="https://img.shields.io/badge/javascript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />&nbsp
-  <img src="https://img.shields.io/badge/html5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=FFD700" />&nbsp
-  <img src="https://img.shields.io/badge/tailwindcss-06B6D4.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/css3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />
+  <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
+  <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
 </div>
 
 <br>
@@ -20,42 +19,39 @@
 <div align="center">
   <h3>🔍 Currently Learning 🔍</h3>
   <p>Always exploring new technologies</p>
-  <img src="https://img.shields.io/badge/typescript-007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Recoil-3578E5?style=for-the-badge&logo=recoil&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-007ACC.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
 </div>
 
 <br>
 
 <div align="center">
-  <h3>📊 Data Science 📊</h3>
-  <p>Tools for data analysis and visualization</p>
-  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
-  <img src="https://img.shields.io/badge/pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/numpy-4d77cf.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Matplotlib-11557c.svg?style=for-the-badge&logo=Matplotlib&logoColor=white" />
+  <h3>📊 Deep Learning & Machine Learning 📊</h3>
+  <p>Frameworks and libraries I work with</p>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
 </div>
 
 <br>
 
 <div align="center">
   <h3>🛠 Tools I Use 🛠</h3>
-  <p>My go-to tools for development and design</p>
-  <img src="https://img.shields.io/badge/git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/github-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />&nbsp
-  <img src="https://img.shields.io/badge/adobe%20photoshop-001E36.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=37AFFF" />&nbsp
-  <img src="https://img.shields.io/badge/figma-F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/vscode-007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <p>My go-to tools for development and collaboration</p>
+  <img src="https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Docker-2496ED.svg?style=for-the-badge&logo=docker&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Notion-F3F3F3.svg?style=for-the-badge&logo=notion&logoColor=black" />
 </div>
 
 <br>
 
 <div align="center">
-  <h3>📫 Contact 📫</h3>
-  <a href="https://velog.io/@">
-    <img src="https://img.shields.io/badge/Velog-1EBC8F?style=for-the-badge&logo=velog&logoColor=white" />
-  </a>
+  <h3>📫 Contact Me 📫</h3>
+  <p>Feel free to reach out</p>
+  <a href="mailto:jaeung.lee@m4ml.re.kr">
+    <img src="https://img.shields.io/badge/jaeung.lee@m4ml.re.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>&nbsp
   <a href="mailto:lju9176@donga.ac.kr">
     <img src="https://img.shields.io/badge/lju9176@donga.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
