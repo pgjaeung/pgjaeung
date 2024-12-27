@@ -67,10 +67,12 @@
 
 <div align="center">
   <h3>📈 My GitHub Stats 📈</h3>
-  <img src="https://github-readme-stats.vercel.app/api?username=pgjaeung&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgjaeung&layout=compact&theme=radical" alt="Top Languages" />
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=pgjaeung&show_icons=true&theme=swift" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgjaeung&layout=compact&theme=swift" alt="Top Languages" />
+  </p>
 </div>
+
 
 <br>
 
