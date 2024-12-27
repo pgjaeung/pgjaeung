@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=rounded&color=0F52BA&height=250&section=header&text=Jaeung's%20Code&fontSize=75&animation=fadeIn&fontColor=FFD700"/>
 </div>
 
-<br>
-[![GitHub Streak](https://streak-stats.demolab.com?user=pgjaeung&hide_border=true)](https://git.io/streak-stats)
-<br>
 <div align="center">
+  <br>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pgjaeung&hide_border=true" alt="GitHub Streak" /></a>
+<br>
   <h3>✨ Tech Stack ✨</h3>
   <p>Technologies I work with</p>
   <img src="https://img.shields.io/badge/JAVA-F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black" />&nbsp
@@ -58,7 +58,7 @@
     </tr>
     <tr>
       <td>Development of Subtitle Extraction Technology for Pre-Recorded Video</td>
-      <td>International Conference on AI & Multimedia</td>
+      <td>Korea Multimedia Society</td>
       <td>2024</td>
     </tr>
   </table>
