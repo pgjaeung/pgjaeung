@@ -7,11 +7,11 @@
 <div align="center">
   <h3>✨ Tech Stack ✨</h3>
   <p>Technologies I work with</p>
-  <img src="https://img.shields.io/badge/JAVA-007396.svg?style=for-the-badge&logo=java&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/JAVA-F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=20232a" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />
 </div>
 
 <br>
@@ -19,8 +19,8 @@
 <div align="center">
   <h3>🔍 Currently Learning 🔍</h3>
   <p>Always exploring new technologies</p>
-  <img src="https://img.shields.io/badge/Computer%20Vision-007ACC.svg?style=for-the-badge&logo=opencv&logoColor=white" />&nbsp
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white" />
+  <img src="https://img.shields.io/badge/Computer%20Vision-2C2C32.svg?style=for-the-badge&logo=ai&logoColor=FFD700" />&nbsp
+  <img src="https://img.shields.io/badge/Machine%20Learning-0A9396.svg?style=for-the-badge&logo=ai&logoColor=white" />
 </div>
 
 <br>
@@ -47,10 +47,18 @@
 <br>
 
 <div align="center">
+  <h3>📄 Publications 📄</h3>
+  <p>Some of my recent work</p>
+  <img src="https://img.shields.io/badge/Research%20Paper-Development%20of%20Subtitle%20Extraction%20Technology%20for%20Pre--Recorded%20Video-0A9396?style=for-the-badge&logo=google-scholar&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
   <h3>📫 Contact Me 📫</h3>
   <p>Feel free to reach out</p>
   <a href="mailto:jaeung.lee@m4ml.re.kr">
-    <img src="https://img.shields.io/badge/jaeung.lee@m4ml.re.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/jaeung.lee@m4ml.re.kr-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp
   <a href="mailto:lju9176@donga.ac.kr">
     <img src="https://img.shields.io/badge/lju9176@donga.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
