@@ -3,7 +3,8 @@
 </div>
 
 <br>
-
+[![GitHub Streak](https://streak-stats.demolab.com?user=pgjaeung&hide_border=true)](https://git.io/streak-stats)
+<br>
 <div align="center">
   <h3>✨ Tech Stack ✨</h3>
   <p>Technologies I work with</p>
