@@ -3,6 +3,11 @@
 </div>
 
 <div align="center">
+  <h3>💻 Dong-a University - Computer Engineering Student 💻</h3>
+  <p><strong>🔔 Affiliated with the <span style="font-weight: bold; color: #FFD700;">Machine-for-Media Lab</span> 🔔</strong></p>
+</div>
+
+<div align="center">
   <h3>🔥 Challenge! 🔥</h3>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pgjaeung&hide_border=true" alt="GitHub Streak" /></a>
 </div>
