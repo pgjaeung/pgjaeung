@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=2C3E50&height=250&section=header&text=Jaeung's%20Code&fontSize=75&animation=fadeIn&fontColor=FFD700"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:2C3E50,100:FFD700&height=200&section=header&text=Jaeung's%20Code&fontSize=60&fontColor=FFFFFF"/>
 </div>
 
 <div align="center">
@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/Python-3670A0.svg?style=for-the-badge&logo=python&logoColor=ffdd54" />&nbsp
   <img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/CSS3-1572B6.svg?style=for-the-badge&logo=css3&logoColor=white" />&nbsp
+  <br>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/Machine%20Learning-0A9396.svg?style=for-the-badge&logo=scikit-learn&logoColor=white" />
 </div>
@@ -35,6 +36,16 @@
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white" />
+</div>
+
+<br>
+
+<div align="center">
+  <h3>📈 Data Analysis 📈</h3>
+  <p>Libraries and tools for data processing and visualization</p>
+  <img src="https://img.shields.io/badge/NumPy-013243.svg?style=for-the-badge&logo=numpy&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Pandas-150458.svg?style=for-the-badge&logo=pandas&logoColor=white" />&nbsp
+  <img src="https://img.shields.io/badge/Matplotlib-007ACC.svg?style=for-the-badge&logo=python&logoColor=white" />
 </div>
 
 <br>
@@ -93,5 +104,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=2C3E50&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=FFD700"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:FFD700,100:2C3E50&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=646464"/>
 </div>
