@@ -1,11 +1,13 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=rounded&color=0F52BA&height=250&section=header&text=Jaeung's%20Code&fontSize=75&animation=fadeIn&fontColor=FFD700"/>
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=2C3E50&height=250&section=header&text=Jaeung's%20Code&fontSize=75&animation=fadeIn&fontColor=FFD700"/>
 </div>
 
 <div align="center">
-  <br>
+  <h3>🔥 Challenge! 🔥</h3>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=pgjaeung&hide_border=true" alt="GitHub Streak" /></a>
-<br>
+</div>
+
+<div align="center">
   <h3>✨ Tech Stack ✨</h3>
   <p>Technologies I work with</p>
   <img src="https://img.shields.io/badge/JAVA-F7DF1E.svg?style=for-the-badge&logo=java&logoColor=black" />&nbsp
@@ -91,5 +93,5 @@
 <br>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0F52BA&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=FFD700"/>
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=2C3E50&height=120&section=footer&text=Happy%20Coding!&fontSize=30&fontColor=FFD700"/>
 </div>
