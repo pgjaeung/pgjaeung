@@ -88,16 +88,16 @@
 
 <br>
 
-<div align="center">
+<!-- <div align="center">
   <h3>📈 My GitHub Stats 📈</h3>
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=pgjaeung&show_icons=true&theme=swift" alt="GitHub Stats" />
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pgjaeung&layout=compact&theme=swift" alt="Top Languages" />
   </p>
-</div>
+</div> -->
 
 
-<br>
+<!-- <br> -->
 
 <div align="center">
   <h3>📫 Contact Me 📫</h3>
@@ -105,8 +105,8 @@
   <a href="mailto:jaeunglee@kist.re.kr">
     <img src="https://img.shields.io/badge/jaeunglee@kist.re.kr-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp
-  <a href="mailto:lju9176@donga.ac.kr">
-    <img src="https://img.shields.io/badge/lju9176@donga.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:lju9176@gmail.com">
+    <img src="https://img.shields.io/badge/lju9176@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </div>
 
