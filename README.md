@@ -83,6 +83,26 @@
       <td>Korea Multimedia Society</td>
       <td>2024</td>
     </tr>
+     <tr>
+      <td>3D Virtual Try-On using Gaussian Splatting</td>
+      <td>The Korean Institute of Broadcast and Media Engineers (KIBME)</td>
+      <td>2025</td>
+    </tr>
+     <tr>
+      <td>Analyzing Performance Changes in Camouflaged Soldier Detection via Domain Adaptation and Mixed Data Training</td>
+      <td>Korea The Korean Institute of Broadcast and Media Engineers (KIBME)</td>
+      <td>2025</td>
+    </tr>
+     <tr>
+      <td>JetDehazeNet: Lightweight Dehazing Technology Development for Edge Device-based Autonomous Driving</td>
+      <td>The Korean Society of Intelligent Transport Systems (KITS)</td>
+      <td>2025</td>
+    </tr>
+     <tr>
+      <td>Enhancing Camouflaged Object Detection with CBAM Modules and Iterative Feature Refinement on Swin Transformer</td>
+      <td>The Korean Society of Intelligent Transport Systems (KITS)</td>
+      <td>2025</td>
+    </tr>
   </table>
 </div>
 
