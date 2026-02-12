@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E71D2B,100:2C3E50&height=220&section=header&text=Jaeung's%20Lab&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Research%20Intern%20@%20KIST&descSize=25&descAlign=50&descAlignY=65"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:E71D2B,100:2C3E50&height=220&section=header&text=Jaeung's%20Lab&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=35&desc=Computer%20Vision%20Researcher%20@%20KIST&descSize=25&descAlign=50&descAlignY=65"/>
 </div>
 
 <div align="center">
@@ -102,8 +102,8 @@
 <div align="center">
   <h3>📫 Contact Me 📫</h3>
   <p>Feel free to reach out</p>
-  <a href="mailto:jaeung.lee@m4ml.re.kr">
-    <img src="https://img.shields.io/badge/jaeung.lee@m4ml.re.kr-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
+  <a href="mailto:jaeunglee@kist.re.kr">
+    <img src="https://img.shields.io/badge/jaeunglee@kist.re.kr-1E90FF?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>&nbsp
   <a href="mailto:lju9176@donga.ac.kr">
     <img src="https://img.shields.io/badge/lju9176@donga.ac.kr-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
