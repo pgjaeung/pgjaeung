@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=cylinder&color=E71D2B&height=200&section=header&text=Jaeung%20Han&fontSize=70&fontColor=FFFFFF&animation=fadeIn&fontAlign=50&desc=Computer%20Vision%20Researcher&descSize=25&descAlign=50&descAlignY=70"/>
+  <br> <img src="https://img.shields.io/badge/KIST-E71D2B?style=flat-square&logo=korea-university&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white"/>
+  <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white"/>
 </div>
 
 <div align="center">
