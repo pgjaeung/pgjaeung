@@ -3,8 +3,15 @@
 </div>
 
 <div align="center">
-  <h3>💻 Dong-a University - Computer Engineering Student 💻</h3>
-  <p><strong>🔔 Affiliated with the <span style="font-weight: bold; color: #FFD700;">Machine-for-Media Lab</span> 🔔</strong></p>
+  <h3>💻 Dong-a University - Computer Engineering 💻</h3>
+  
+  <p style="font-size: 1.1em; margin-bottom: 5px;">
+    <strong>🚀 Current: Research Intern @ <span style="color: #E71D2B;">KIST AI·Robotics Institute (VIG Lab)</span></strong>
+  </p>
+  
+  <p style="font-size: 0.9em; color: #555555; margin-top: 0;">
+    <em>Prev. Undergraduate Researcher @ Machine-for-Media Lab ('24.07 ~ '25.06)</em>
+  </p>
 </div>
 
 <div align="center">
