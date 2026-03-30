@@ -6,7 +6,7 @@
   <h3>💻 Dong-a University - Computer Engineering 💻</h3>
   
   <p style="font-size: 1.1em; margin-bottom: 5px;">
-    <strong>🚀 Current: Research Intern @ <span style="color: #E71D2B;">KIST AI·Robotics Institute (VIG Lab)</span></strong>
+    <strong>Current: Research Intern @ <span style="color: #E71D2B;">KIST AI·Robotics Institute (VIG Lab)</span></strong>
   </p>
   
   <p style="font-size: 0.9em; color: #555555; margin-top: 0;">
